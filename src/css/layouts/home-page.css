@@ -1,0 +1,43 @@
+header {
+  background-color: blueviolet;
+}
+.header-nav {
+  display: flex;
+  flex-direction: row;
+}
+
+.header-logo-link-img {
+  background-color: blueviolet;
+}
+.header-nav-list {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  margin-left: 144px;
+}
+.header-nav-menu-item-link {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 2.25;
+  text-transform: uppercase;
+  color: #fff;
+}
+.header-btn-contact {
+  border: 2px solid #fff;
+  border-radius: 6px;
+  width: 180px;
+  height: 42px;
+  background-color: transparent;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 2.25;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  margin-left: 148px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
