@@ -4,6 +4,7 @@
   justify-content: center;
   align-items: center;
 }
+
 .tech-wrapp-first-title {
   font-family: 'Harabara', sans-serif;
   font-weight: 700;
@@ -13,6 +14,7 @@
   color: var(--bark-blue);
   margin-bottom: 60px;
 }
+
 .tech-wrapp-first-descr {
   font-family: 'Montserrat', sans-serif;
   font-size: 24px;
@@ -23,14 +25,17 @@
   margin-bottom: 30px;
   width: 898px;
 }
+
 .tech-wrapp-first-span-first {
   font-weight: 700;
   color: #00a4e8;
 }
+
 .tech-wrapp-first-span-second {
   font-weight: 700;
   color: var(--bark-blue);
 }
+
 .tech-wrapp-first-text {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
@@ -38,6 +43,7 @@
   line-height: 1.58333;
   color: var(--dark-grey);
 }
+
 .tech-wrapp-first-icons-list {
   display: flex;
   flex-direction: row;
@@ -45,6 +51,7 @@
   align-items: center;
   gap: 80px;
 }
+
 .tech-wrapp-first-icons-item {
   border-radius: 16px;
   width: 64px;
@@ -56,12 +63,15 @@
   align-items: center;
   margin-bottom: 30px;
 }
+
 .first {
   background: var(--dark-green);
 }
+
 .second {
   background: var(--medium-blue-2);
 }
+
 .therd {
   background: var(--light-blue);
 }
